@@ -1,0 +1,6 @@
+{
+  "name": "AviAqua - Smart Solar, Water Softening & Management Solutions",
+  "description": "Premium sustainable energy and water solutions startup providing solar installations, automated water softeners, and smart water management systems.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
